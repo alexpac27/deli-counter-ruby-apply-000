@@ -15,6 +15,9 @@ end
 
 
 def take_a_number(number)
+  count = 1
+  katz_deli.push(number)
+  count += 1
 end
 
 # def take_a_number(katz_deli,name)
