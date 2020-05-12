@@ -15,7 +15,7 @@ end
 
 COUNT = 1
 def take_a_number(katz_deli)
-  katz_deli.push(number)
+  katz_deli.push(COUNT)
   puts "Hello. You are number #{COUNT} in line."
   count += 1
   katz_deli.shift
